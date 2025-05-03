@@ -4,6 +4,7 @@
 - [Prompt Engineering](PromptEngineering.md)
 - [Markdown Pseudo Language](MarkdownPseudoLang.md)
 - [Reference Projects](ReferenceProjects.md)
+- [AI YouTube Channels](YouTubeChannels.md)
 
 ## Prompt Design
 
@@ -56,4 +57,3 @@ Include some or all of the following Markdown headings:
 ## Audience Specification
 ## Initial Request
 ```
-
